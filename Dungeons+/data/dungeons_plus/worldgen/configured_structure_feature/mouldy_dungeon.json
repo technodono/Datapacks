@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:bastion_remnant",
+  "config": {
+    "start_pool": "dungeons_plus:zombie_dungeon",
+    "size": 1
+  },
+  "biomes": "#dungeons_plus:has_structure/mouldy_dungeon",
+  "adapt_noise": true,
+  "spawn_overrides": {}
+}

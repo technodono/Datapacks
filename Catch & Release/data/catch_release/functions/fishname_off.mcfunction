@@ -1,0 +1,2 @@
+execute as @p run tellraw @s ["",{"text":"☒ ","color":"dark_red"},{"text":"Fish will not be named regardless of wether their item form was renamed","italic":true,"color":"#FB1515"}]
+scoreboard players set #setting tccr.setting.CanBeNamed 0

@@ -1,0 +1,15 @@
+{
+  "name": "dungeons_plus:dusty_tomb",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dungeons_plus:dungeons/dusty_tomb",
+        "projection": "rigid",
+        "processors": "dungeons_plus:tomb_rot"
+      }
+    }
+  ]
+}

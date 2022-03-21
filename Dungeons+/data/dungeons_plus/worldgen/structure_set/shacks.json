@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "dungeons_plus:witch_shack",
+      "weight": 1
+    }
+	
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 12,
+    "separation": 8,
+    "salt": 762319326 
+  }
+}

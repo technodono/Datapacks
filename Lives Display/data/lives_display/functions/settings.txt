@@ -1,0 +1,5 @@
+execute as @a if score @s health matches 15.. run team join great @s 
+execute as @a if score @s health matches ..15 run execute if score @s health matches 10.. run team join good @s
+execute as @a if score @s health matches ..10 run execute if score @s health matches 5.. run team join ok @s 
+execute as @a if score @s health matches ..5 run team join bad @s 
+execute as @a if score @s health matches ..5 unless score #config setting_announce matches 1 unless score @s cooldown matches 1 run function lives_display:broadcast

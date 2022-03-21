@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:bastion_remnant",
+  "config": {
+    "start_pool": "dungeons_plus:dusty_tomb",
+    "size": 1
+  },
+  "biomes": "#dungeons_plus:has_structure/dusty_tomb",
+  "adapt_noise": true,
+  "spawn_overrides": {}
+}

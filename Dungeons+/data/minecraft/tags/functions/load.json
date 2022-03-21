@@ -1,0 +1,6 @@
+{
+    "values": [
+        "dungeons_plus:load",
+		"techno.shared:load"
+    ]
+}

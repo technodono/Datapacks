@@ -1,0 +1,1 @@
+tellraw @a[tag=tcshared.veiwgui] [{"text":"                Moar Beacons","font":"shelve:custom_gui_text"},"\n",{"text":"\uEaa1","color":"blue","font":"shelve:custom_gui"},{"text":"\uEaa4","font":"shelve:custom_gui"},"\n",{"text":"\uEaa4","font":"shelve:custom_gui"},"\n",{"text":"\uEaa4","font":"shelve:custom_gui"}]

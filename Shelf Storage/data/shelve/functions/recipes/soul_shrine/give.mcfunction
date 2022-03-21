@@ -1,0 +1,3 @@
+give @s panda_spawn_egg{display:{Name:'[{"text":"Soul shrine","italic":false}]'},CustomModelData:832413,EntityTag:{id:"minecraft:armor_stand",Invulnerable:1b,Invisible:1b,Marker:1b,NoGravity:1b,Tags:["smithed.block","tcss.soul_shrine"],ArmorItems:[{},{},{},{id:"panda_spawn_egg",Count:1b,tag:{CustomModelData:832413}}]}}
+scoreboard players remove @s tcss.count 1
+execute if score @s tcss.count matches 1.. run function shelve:recipes/soul_shrine/give

@@ -1,0 +1,6 @@
+{
+    "values": [
+        "shelve:load",
+		"techno.shared:load"
+    ]
+}

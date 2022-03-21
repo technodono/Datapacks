@@ -1,0 +1,2 @@
+execute as @s unless score @s tcld.broadcast_cooldown matches 1 run tellraw @a ["",{"selector":"@s","bold":true,"italic":true,"color":"gold"},{"text":" is in dire need of","color":"white"},{"text":" Assistance!","bold":true,"italic":true,"color":"dark_red"},{"text":"\n"},{"text":"Heal ","bold":true,"italic":true,"color":"red"},{"selector":"@s","bold":true,"italic":true,"color":"gold"},{"text":" to save him from death!","color":"white"}]
+scoreboard players set @s tcld.broadcast_cooldown 1

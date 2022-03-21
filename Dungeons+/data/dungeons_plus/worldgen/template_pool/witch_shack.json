@@ -1,0 +1,15 @@
+{
+  "name": "dungeons_plus:witch_shack",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dungeons_plus:other/witch_shack",
+        "projection": "rigid",
+        "processors": "dungeons_plus:shack_rot"
+      }
+    }
+  ]
+}

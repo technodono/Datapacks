@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 5, 
+        "description": "A handy server toll that displays the person health next to thier name. It even changes their name colour in-game!"
+    }
+}
