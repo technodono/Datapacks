@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:clock",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:7567, display:{Name:'[{\"text\":\"Jungle Tablet\",\"italic\":false,\"color\":\"dark_gray\"}]',Lore:['[{\"text\":\"Grants you these abilities:\",\"italic\":false}]','[{\"text\":\"Speed boost\",\"italic\":false,\"color\":\"gray\"}]']}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

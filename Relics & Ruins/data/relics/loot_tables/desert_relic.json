@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:clock",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:6567, display:{Name:'[{\"text\":\"Desert Relic\",\"italic\":false,\"color\":\"#cc9933\"}]',Lore:['[{\"text\":\"Grants you these abilities:\",\"italic\":false}]','[{\"text\":\"Lucky charm\",\"italic\":false,\"color\":\"gray\"}]']}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:clock",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:1567, display:{Name:\"[{\\\"text\\\":\\\"Firestone\\\",\\\"italic\\\":false,\\\"color\\\":\\\"gold\\\"}]\",Lore:[\"[{\\\"text\\\":\\\"Grants you these abilities:\\\",\\\"italic\\\":false}]\",\"[{\\\"text\\\":\\\"Fire resistance\\\",\\\"italic\\\":false,\\\"color\\\":\\\"gray\\\"}]\"]}, tag:StoneF}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

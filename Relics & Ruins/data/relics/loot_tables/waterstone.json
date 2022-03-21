@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:clock",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:3567, display:{Name:'[{\"text\":\"Waterstone\",\"italic\":false,\"color\":\"dark_blue\"}]',Lore:['[{\"text\":\"Grants you these abilities:\",\"italic\":false}]','[{\"text\":\"Speedswim\",\"italic\":false,\"color\":\"gray\"}]']}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

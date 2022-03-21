@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:clock",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:9567, display:{Name:'[{\"text\":\"Void Cube\",\"italic\":false,\"color\":\"#003333\"}]',Lore:['[{\"text\":\"Grants you these abilities:\",\"italic\":false}]','[{\"text\":\"Void totem\",\"italic\":false,\"color\":\"gray\"}]']}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

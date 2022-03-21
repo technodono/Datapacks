@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stone_shovel",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:1567, display:{Name:'[{\"text\":\"Verdegris Shovel\",\"italic\":false,\"color\":\"#66ff99\"}]',Lore:['[{\"text\":\"Grants you these abilities:\",\"italic\":false}]','[{\"text\":\"Fossil finder\",\"italic\":false,\"color\":\"gray\"}]']}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

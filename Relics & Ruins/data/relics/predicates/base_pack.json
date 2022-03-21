@@ -1,0 +1,12 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "type": "minecraft:player",
+    "player": {
+      "advancements": {
+        "fruitful_loot:relics_ruins": true
+      }
+    }
+  }
+}

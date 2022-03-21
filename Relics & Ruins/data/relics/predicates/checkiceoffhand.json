@@ -1,0 +1,14 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "type": "minecraft:player",
+    "equipment": {
+      "mainhand": {},
+      "offhand": {
+        "item": "minecraft:clock",
+        "nbt": "{CustomModelData:2567}"
+      }
+    }
+  }
+}
