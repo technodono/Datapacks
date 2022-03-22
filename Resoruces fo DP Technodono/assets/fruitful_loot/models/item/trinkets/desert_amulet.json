@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "fruitful_loot:loot_textures/desert_tablet"
+    }
+}

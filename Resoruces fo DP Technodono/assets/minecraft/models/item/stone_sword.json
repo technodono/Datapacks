@@ -1,0 +1,10 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/stone_sword"
+    },
+		"overrides": [
+     	{ "predicate": {"custom_model_data": 1567}, "model": "fruitful_loot:item/trinkets/old_sword"}
+
+    ]
+}
