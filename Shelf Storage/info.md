@@ -16,7 +16,7 @@ Once the data-pack is installed you can verify it's working by clicking on the i
 
 Shelf
 ![Shelf](https://static.planetminecraft.com/files/image/minecraft/texture-pack/2022/060/15426631-shelf_l.jpg)
-* you can use any wood & wood slab types
+- you can use any wood & wood slab types
 
 Drawer
 ![Drawer](https://static.planetminecraft.com/files/image/minecraft/texture-pack/2022/060/15426623-drawer_l.jpg)
@@ -35,4 +35,4 @@ Eldritch Shelf
 
 Soul Shrine
 ![Soul shrine](https://static.planetminecraft.com/files/image/minecraft/texture-pack/2022/060/15426628-soul_l.jpg)
-** you can use soul soil too!
+-- you can use soul soil too!
