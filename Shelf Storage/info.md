@@ -43,3 +43,7 @@ Soul Shrine
 
 ![Soul shrine](https://static.planetminecraft.com/files/image/minecraft/texture-pack/2022/060/15426628-soul_l.jpg)
 - you can use soul soil too!
+
+Firelight Core
+![Firelight core](https://raw.githubusercontent.com/technodono/Datapacks/main/Shelf%20Storage/craft_firelight.png)
+- you can use any froglight
