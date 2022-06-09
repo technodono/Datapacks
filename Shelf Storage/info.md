@@ -45,5 +45,6 @@ Soul Shrine
 - you can use soul soil too!
 
 Firelight Core
+
 ![Firelight core](https://raw.githubusercontent.com/technodono/Datapacks/main/Shelf%20Storage/craft_firelight.png)
 - you can use any froglight
