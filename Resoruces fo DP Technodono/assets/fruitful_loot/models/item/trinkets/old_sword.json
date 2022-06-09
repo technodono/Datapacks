@@ -1,6 +1,0 @@
-{
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "fruitful_loot:loot_textures/old_sword"
-    }
-}
