@@ -14,24 +14,25 @@ Once the data-pack is installed you can verify it's working by clicking on the i
 
 ## Crafting
 
-![Shelf](https://static.planetminecraft.com/files/image/minecraft/texture-pack/2022/060/15426631-shelf_l.webp)
+Shelf
+![Shelf](https://static.planetminecraft.com/files/image/minecraft/texture-pack/2022/060/15426631-shelf_l.jpg)
 * you can use any wood & wood slab types
 
-[b]Drawer[/b]
-[Drawer](https://static.planetminecraft.com/files/image/minecraft/texture-pack/2022/060/15426623-drawer_l.webp)
+Drawer
+![Drawer](https://static.planetminecraft.com/files/image/minecraft/texture-pack/2022/060/15426623-drawer_l.jpg)
 
-[b]Display Case[/b]
-[Display case](https://static.planetminecraft.com/files/image/minecraft/texture-pack/2022/060/15426624-display_l.webp)
+Display Case
+![Display case](https://static.planetminecraft.com/files/image/minecraft/texture-pack/2022/060/15426624-display_l.jpg)
 
-[b]Clay Pot[/b]
-[Clay pot](https://static.planetminecraft.com/files/image/minecraft/texture-pack/2022/060/15426625-clay_l.webp)
+Clay Pot
+![Clay pot](https://static.planetminecraft.com/files/image/minecraft/texture-pack/2022/060/15426625-clay_l.jpg)
 
-[b]Crate[/b]
-[Crate](https://static.planetminecraft.com/files/image/minecraft/texture-pack/2022/060/15426626-crate_l.webp)
+Crate
+![Crate](https://static.planetminecraft.com/files/image/minecraft/texture-pack/2022/060/15426626-crate_l.jpg)
 
-[b]Eldritch Shelf[/b]
-[Eldritch shelf](https://static.planetminecraft.com/files/image/minecraft/texture-pack/2022/060/15426627-eldritch_l.webp)
+Eldritch Shelf
+![Eldritch shelf](https://static.planetminecraft.com/files/image/minecraft/texture-pack/2022/060/15426627-eldritch_l.jpg)
 
-[b]Soul Shrine[/b]
-[Soul shrine](https://static.planetminecraft.com/files/image/minecraft/texture-pack/2022/060/15426628-soul_l.webp)
+Soul Shrine
+![Soul shrine](https://static.planetminecraft.com/files/image/minecraft/texture-pack/2022/060/15426628-soul_l.jpg)
 ** you can use soul soil too!
