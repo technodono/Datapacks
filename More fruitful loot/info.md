@@ -13,7 +13,7 @@ Do you think some Minecraft loot is very underwhelming? well this adjusts minecr
 - Desert temples contain better loot overall
 - The igloo now has better loot and added carved pumpkins + snowballs... I wonder what I use those for?
 - Strongholds now have some diamond loot + better library loot... seems like the player was somewhat prepared before he died
-- Nether forts contain ghast tears, magma creams, glistering watermelons, golden carrots and the occasional fire-charge + better loot
+- Nether forts contain ghast tears, magma creams, glistering watermelons, golden carrots, enchated golden armour and the occasional fire-charge + better loot
 - Mansions have more loot and all music discs (except for disc 5) + chainmail armour sets
 - Pillager outposts have raid maps (they lead to villages)
 - Villager cartographers have  a guaranteed exploration maps in their chests which will lead to a random overworld structure. These structures can be:
