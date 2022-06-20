@@ -1,3 +1,7 @@
+# If downloading online!
+
+make sure once you download the pack you unzip the file provided to acess the data-pack and technodono's universal resource-pack. You only need to install my resource-pack once to gain access to all of my datapacks textures so keep that in mind.
+
 # Dungeons+
 This data-pack aims to add 6 brand new dungeons that should improve vanilla immersion and keep the feeling of the old vanilla style dungeon boxes! Each dungeon type spawns within certain biomes and has a unique spawner which allows for strategic structure exploration to find the one spawner you're specifically looking to turn into a farm
 
