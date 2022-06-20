@@ -5,11 +5,6 @@ make sure once you download the pack you unzip the file provided to acess the da
 # Dungeons+
 This data-pack aims to add 6 brand new dungeons that should improve vanilla immersion and keep the feeling of the old vanilla style dungeon boxes! Each dungeon type spawns within certain biomes and has a unique spawner which allows for strategic structure exploration to find the one spawner you're specifically looking to turn into a farm
 
-## Current limitations :
-due to in game limitations you can only mine these with iron/better pickaxes
-the blocks will not burn like most wood blocks
-**Any datapacks that _unlock all recipes_ will break this pack!**
-
 ## Installing:
 Once the data-pack is installed you can verify it's working by clicking on the installed data-packs button or running /data-pack list and checking if it's in the list
 
