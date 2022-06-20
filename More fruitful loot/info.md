@@ -1,10 +1,10 @@
-More fruitful loot for 1.18+
+## More fruitful loot for 1.18+
 
-Notice! - to play this pack it is not required but highly recommended you play with the resource-pack that is also available next to the download button
+# Notice! - to play this pack it is not required but highly recommended you play with the resource-pack that is also available next to the download button
 
-Do you think some Minecraft structures are underrated... well this adds a little more fun to them and gives them a little more purposeIt also adds any missing loot (new items) which would benefit from being in a structure's loot chest like lanterns in mine cart chests
+Do you think some Minecraft loot is very underwhelming? well this adjusts minecrafts loot to make valuable items more likely to appear and adds "missing" loot to some structures like having lanterns in mineshaft.
 
-Loot Changes
+# Loot Changes
 
 - All other loot is retained
 - Dungeons now have the chance to spawn with all the types of music discs (except for disc 5)
