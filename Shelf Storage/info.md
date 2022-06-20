@@ -1,3 +1,7 @@
+# If downloading online!
+
+make sure once you download the pack you unzip the file provided to acess the data-pack and technodono's universal resource-pack. You only need to install my resource-pack once to gain access to all of my datapacks textures so keep that in mind.
+
 # Shelf storage
 
 some things in life minecraft won't give us like custom furniture or more storage options... This datapack changes that and adds custom storage blocks to minecraft that will allow you to store 5 stacks of items and give your builds a more cosy & custom feel!
