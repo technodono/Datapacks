@@ -1,12 +1,14 @@
 ## More fruitful loot for 1.18+
 
-# Notice! - to play this pack it is not required but highly recommended you play with the resource-pack that is also available next to the download button
+# Notice!
+to play this pack it is not required but highly recommended you play with the resource-pack that is also available next to the download button
 
+# Description
 Do you think some Minecraft loot is very underwhelming? well this adjusts minecrafts loot to make valuable items more likely to appear and adds "missing" loot to some structures like having lanterns in mineshaft.
 
 # Loot Changes
+Aside from these changes, all other loot has been retained
 
-- All other loot is retained
 - Dungeons now have the chance to spawn with all the types of music discs (except for disc 5)
 - Mineshaft chests now contain lanterns, and most new 1.17 items/blocks
 - Jungle temples will now shoot arrows, tipped arrows or fire charge or both (from dispensers) and also contain better loot overall
