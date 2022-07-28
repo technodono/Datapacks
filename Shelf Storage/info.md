@@ -1,6 +1,6 @@
 # If downloading online!
 
-make sure once you download the pack you unzip the file provided to acess the data-pack and technodono's universal resource-pack. You only need to install my resource-pack once to gain access to all of my datapacks textures so keep that in mind.
+make sure once you download the pack you unzip the file provided to acess the data-pack. 
 
 # Shelf storage
 
