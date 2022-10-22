@@ -1,8 +1,4 @@
-## More fruitful loot for 1.18+
-
-# If downloading online!
-
-make sure once you download the pack you unzip the file provided to acess the data-pack. 
+## More fruitful loot
 
 # Description
 Do you think some Minecraft loot is very underwhelming? well this adjusts minecrafts loot to make valuable items more likely to appear and adds "missing" loot to some structures like having lanterns in mineshaft.
