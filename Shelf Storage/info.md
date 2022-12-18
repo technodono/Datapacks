@@ -14,37 +14,4 @@ Once the data-pack is installed you can verify it's working by clicking on the i
 
 ## Crafting
 
-Shelf
-
-![Shelf](https://static.planetminecraft.com/files/image/minecraft/texture-pack/2022/060/15426631-shelf_l.jpg)
-- you can use any wood & wood slab types
-
-Drawer
-
-![Drawer](https://static.planetminecraft.com/files/image/minecraft/texture-pack/2022/060/15426623-drawer_l.jpg)
-
-Display Case
-
-![Display case](https://static.planetminecraft.com/files/image/minecraft/texture-pack/2022/060/15426624-display_l.jpg)
-
-Clay Pot
-
-![Clay pot](https://static.planetminecraft.com/files/image/minecraft/texture-pack/2022/060/15426625-clay_l.jpg)
-
-Crate
-
-![Crate](https://static.planetminecraft.com/files/image/minecraft/texture-pack/2022/060/15426626-crate_l.jpg)
-
-Eldritch Shelf
-
-![Eldritch shelf](https://static.planetminecraft.com/files/image/minecraft/texture-pack/2022/060/15426627-eldritch_l.jpg)
-
-Soul Shrine
-
-![Soul shrine](https://static.planetminecraft.com/files/image/minecraft/texture-pack/2022/060/15426628-soul_l.jpg)
-- you can use soul soil too!
-
-Firelight Core
-
-![Firelight core](https://raw.githubusercontent.com/technodono/Datapacks/main/Shelf%20Storage/craft_firelight.png)
-- you can use any froglight
+![Crafting](https://github.com/technodono/Datapacks/blob/main/Shelf%20Storage/Crafting_list.png?raw=true)
