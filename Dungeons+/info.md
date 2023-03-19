@@ -1,4 +1,6 @@
 # Dungeons+
+### (resourcepack included)
+
 This data-pack aims to add 6 brand new dungeons that should improve vanilla immersion and keep the feeling of the old vanilla style dungeon boxes! Each dungeon type spawns within certain biomes and has a unique spawner which allows for strategic structure exploration to find the one spawner you're specifically looking to turn into a farm
 
 ## Installing:
@@ -29,6 +31,10 @@ Once the data-pack is installed you can verify it's working by clicking on the i
 
 ## Dungeons+ Loot
 This data-pack uses vanilla loot tables! This makes it compatible with any other loot-table changing datapack.
+
+## Terragen datapack Compatability
+- Terralith
+- Datapacks that change The End & Nether
 
 ## Uninstalling
 You can remove this data-pack from your world at any point to stop any new structures from being generated in new chunks!
