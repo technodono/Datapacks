@@ -1,4 +1,4 @@
-## More fruitful loot
+## More fruitful loot (resourcepack included)
 
 # Description
 Do you think some Minecraft loot is very underwhelming? well this adjusts minecrafts loot to make valuable items more likely to appear and adds "missing" loot to some structures like having lanterns in mineshaft.
