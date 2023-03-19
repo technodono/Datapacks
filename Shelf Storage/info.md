@@ -1,4 +1,5 @@
 # Shelf storage
+### (resourcepack included)
 
 some things in life minecraft won't give us like custom furniture or more storage options... This datapack changes that and adds custom storage blocks to minecraft that will allow you to store 5 stacks of items and give your builds a more cosy & custom feel!
 
