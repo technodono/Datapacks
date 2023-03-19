@@ -1,10 +1,10 @@
-## More fruitful loot
+# More fruitful loot
 ### (resourcepack included)
 
-# Description
+## Description
 Do you think some Minecraft loot is very underwhelming? well this adjusts minecrafts loot to make valuable items more likely to appear and adds "missing" loot to some structures like having lanterns in mineshaft.
 
-# Loot Changes
+## Loot Changes
 Aside from these changes, all other loot has been retained
 
 - Dungeons now have the chance to spawn with all the types of music discs (except for disc 5)
