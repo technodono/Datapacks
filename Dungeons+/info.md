@@ -34,7 +34,7 @@ This data-pack uses vanilla loot tables! This makes it compatible with any other
 
 ## Terragen datapack Compatability
 - Terralith
-- All datapacks that change The End & Nether
+- All datapacks that change The End & Nether (not The Overworld)
 
 ## Uninstalling
 You can remove this data-pack from your world at any point to stop any new structures from being generated in new chunks!
