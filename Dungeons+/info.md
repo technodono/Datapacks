@@ -12,21 +12,21 @@ Once the data-pack is installed you can verify it's working by clicking on the i
 
 **Infested Dungeon**: This mountain dungeon has been overtaken by an infestation! make sure you watch your step!
 
-**Webbed Dungeon**: Found within minecraft's wooded forests, this dungeon is home to many a web and certainty a few spiders!
+**Webbed Dungeon**: Found within minecraft's wooded forests, this dungeon could almost be mistaken for a small fortress.
 
-**Lush Dungeon**: The lush jungles & caves provide a nice home for these cave spiders. Be careful as the dungeon is very small & cramped, It'll make a meal of any guests who enter!
+**Lush Dungeon**: The lush jungles & caves provide a nice home for these cave spiders. Be careful however as the dungeon is very small & cramped.
 
-**Deepwater Dungeon**: In the spikiest of caves and the depths of the oceans lies dungeons so wet you could have a swim. However I wouldn't recommend it since the drowned hate sharing the pool with you.
+**Deepwater Dungeon**: These are usually found below the depths of the ocean.
 
-**Cold Dungeon**: The cold of the tiaga is not enough to stop the cold bone bludgers from hanging out, could they even feel the cold in the first place?
+**Cold Dungeon**: The cold of the tiaga is not enough to stop these bone breakers. Makes me wonder if skeletons can even feel temperature in the first place?
 
-**Frozen Dungeon**: Though it is wet, it still makes for a nice atmosphere, except for when the ragged figures shoot at you!
+**Frozen Dungeon**: Wet and cold, this dungeon brings with it a formidable stench from all of the strays.
 
-**Dusty Tomb**: Mostly dry and sandy, it also may make you very hungry if you get attacked by it's rotten friends
+**Dusty Tomb**: Mostly dry and sandy. The husk here are not very welcoming.
 
-**Scorched Tomb**: Where it's hot, there's gold! but there also tombs filled with zombies and loot for those who do a little searching!
+**Scorched Tomb**: Deep in the badlands these will be found. Dungeons full of zombies and loot for those who do a little searching!
 
-**Witch Shack**: Well whatever shack was there seems to be gone now. However the witch still remains in peace in her underground lair. How long? who knows. It might have even been flooded at some point!
+**Witch Shack**: Well whatever shack was there seems to be in dis-repair.
 
 
 ## Dungeons+ Loot
