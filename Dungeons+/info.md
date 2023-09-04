@@ -8,7 +8,7 @@ Once the data-pack is installed you can verify it's working by clicking on the i
 
 ## Dungeon Types
 
-**Mouldy Dungeon**: This is your standard zombie spawner dungeon. It can be found mostly in plains biomes and savanna's
+**Mouldy Dungeon**: This is your standard zombie spawner dungeon. It can be found in plains biomes and savanna's
 
 **Infested Dungeon**: This mountain dungeon has been overtaken by an infestation! make sure you watch your step!
 
