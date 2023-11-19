@@ -16,7 +16,7 @@ Once the data-pack is installed you can verify it's working by clicking on the i
 
 **Lush Dungeon**: The lush jungles & caves provide a nice home for these cave spiders. Be careful however as the dungeon is very small & cramped.
 
-**Deepwater Dungeon**: These are usually found below the depths of the ocean.
+**Deepwater Dungeon**: These are usually found below the depths of the ocean and in dripstone caves.
 
 **Cold Dungeon**: The cold of the tiaga is not enough to stop these bone breakers. Makes me wonder if skeletons can even feel temperature in the first place?
 
@@ -26,7 +26,7 @@ Once the data-pack is installed you can verify it's working by clicking on the i
 
 **Scorched Tomb**: Deep in the badlands these will be found. Dungeons full of zombies and loot for those who do a little searching!
 
-**Witch Shack**: Well whatever shack was there seems to be in dis-repair.
+**Witch Shack**: Well whatever shack was there seems to be in disrepair.
 
 
 ## Dungeons+ Loot
