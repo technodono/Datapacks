@@ -36,7 +36,7 @@ This data-pack uses vanilla loot tables! This makes it compatible with any other
 ## Terragen datapack Compatability
 - Terralith
 
-if installed with other world generation datapacks you make experience dungeons only generating in terralith/vanilla biomes 
+if installed with other world generation datapacks, there is a chance they may not generate in their custom biomes.
 
 ## Uninstalling
 You can remove this data-pack from your world at any point to stop any new structures from being generated in new chunks!
