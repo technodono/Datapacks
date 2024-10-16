@@ -1,7 +1,6 @@
 # Dungeons+
-### (resourcepack included)
 
-This data-pack adds 10 brand new dungeons that should improve vanilla immersion and keep the feeling of the old vanilla style dungeon boxes! Each dungeon type spawns within certain biomes and has a unique spawner which allows for strategic structure exploration.
+This data-pack adds many brand new underground dungeons that should improve vanilla immersion and keep the feeling of the old vanilla style dungeon boxes! Each dungeon type spawns within certain biomes and has a unique spawner which allows for strategic structure exploration.
 
 ## Installing:
 Once the data-pack is installed you can verify it's working by clicking on the installed data-packs button or running /data-pack list and checking if it's in the list
@@ -26,7 +25,9 @@ Once the data-pack is installed you can verify it's working by clicking on the i
 
 **Scorched Tomb**: Deep in the badlands these will be found. Dungeons full of zombies and loot for those who do a little searching!
 
-**Witch Shack**: Well whatever shack was there seems to be in disrepair.
+**Muddy Dungeon**: Can be found in the swampy areas of your world and is a haven to many bogged.
+
+**Dungeon Ruins**: We don't know how they got here, only that someone has been here already!
 
 
 ## Dungeons+ Loot
@@ -34,8 +35,10 @@ This data-pack uses vanilla loot tables! This makes it compatible with any other
 
 ## Terragen datapack Compatability
 - Terralith
-- All datapacks that change The End & Nether (not The Overworld)
+
+if installed with other world generation datapacks you make experience dungeons only generating in terralith/vanilla biomes 
 
 ## Uninstalling
 You can remove this data-pack from your world at any point to stop any new structures from being generated in new chunks!
 Any previous structures in chunks you have generated will remain as is and function normally as if the data-pack were installed!
+
