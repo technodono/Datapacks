@@ -3,7 +3,7 @@
 This data-pack adds many brand new underground dungeons that should improve vanilla immersion and keep the feeling of the old vanilla style dungeon boxes! Each dungeon type spawns within certain biomes and has a unique spawner which allows for strategic structure exploration.
 
 ## Installing:
-Once the data-pack is installed you can verify it's working by clicking on the installed data-packs button or running /data-pack list and checking if it's in the list
+Once the data-pack is installed you can verify it's working by running /data-pack list and checking if it's in the list
 
 ## Dungeon Types
 
