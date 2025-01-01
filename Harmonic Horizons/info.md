@@ -1,44 +1,6 @@
-# Dungeons+
+## ![ ](https://cdn.modrinth.com/data/cached_images/47b5836e80908230df4f845febeba3490d79239e_0.webp)
+## ▪      ![ ](https://cdn.modrinth.com/data/cached_images/462ccb9d26f72d341fdb03543ca6e6c62ebfcc84_0.webp)![ ](https://cdn.modrinth.com/data/cached_images/fb2dde01d08bc0de923928af74ec354bef99cdb6_0.webp)![ ](https://cdn.modrinth.com/data/cached_images/1a1adff9621f8d562f05aafe4e018f9183960be7_0.webp)![ ](https://cdn.modrinth.com/data/cached_images/321c5d22f7b1a32b19b103f7a5acf31cc62fceca_0.webp)![ ](https://cdn.modrinth.com/data/cached_images/269d19c31740a6722393729769340a01ca4a1d0b_0.webp)![ ](https://cdn.modrinth.com/data/cached_images/bde0ab7fa228c18d8b2885e007164679c8855ea7_0.webp)![ ](https://cdn.modrinth.com/data/cached_images/91fa599055f04408bc334c05e86b18bc66ca73be_0.webp)![ ](https://cdn.modrinth.com/data/cached_images/09120e0d455975ad4ab4da2d9835cdd1b8534986_0.webp)![ ](https://cdn.modrinth.com/data/cached_images/e30da50f62904d9e7968e854f45df56425bc1085_0.webp)![ ](https://cdn.modrinth.com/data/cached_images/3c321d22b1360a3bcbccf25ec8778bb261b9486d_0.webp)      ▪
 
-This data-pack adds many brand new underground dungeons that should improve vanilla immersion and keep the feeling of the old vanilla style dungeon boxes! Each dungeon type spawns within certain biomes and has a unique spawner which allows for strategic structure exploration.
+Have you ever wondered why minecraft's music discs are only avaliabe in specific structures? Well imagine no more as Harmonic Horizons is here! This totally tubular pack adds a whole fleet of custom music discs to the game which are all spread out into the various loot chests and dig sites of exisitng minecraft structures. There are 10 discs to collect in total, Are you ready to colelct them all?
 
-## Installing:
-Once the data-pack is installed you can verify it's working by running /data-pack list and checking if it's in the list
-
-## Dungeon Types
-
-**Mouldy Dungeon**: This is your standard zombie spawner dungeon. It can be found in plains biomes and savanna's
-
-**Infested Dungeon**: This mountain dungeon has been overtaken by an infestation! make sure you watch your step!
-
-**Webbed Dungeon**: Found within minecraft's wooded forests, this dungeon could almost be mistaken for a small fortress.
-
-**Lush Dungeon**: The lush jungles & caves provide a nice home for these cave spiders. Be careful however as the dungeon is very small & cramped.
-
-**Deepwater Dungeon**: These are usually found below the depths of the ocean and in dripstone caves.
-
-**Cold Dungeon**: The cold of the tiaga is not enough to stop these bone breakers. Makes me wonder if skeletons can even feel temperature in the first place?
-
-**Frozen Dungeon**: Wet and cold, this dungeon brings with it a formidable stench from all of the strays.
-
-**Dusty Tomb**: Mostly dry and sandy. The husk here are not very welcoming.
-
-**Scorched Tomb**: Deep in the badlands these will be found. Dungeons full of zombies and loot for those who do a little searching!
-
-**Muddy Dungeon**: Can be found in the swampy areas of your world and is a haven to many bogged.
-
-**Dungeon Ruins**: We don't know how they got here, only that someone has been here already!
-
-
-## Dungeons+ Loot
-This data-pack uses vanilla loot tables! This makes it compatible with any other loot-table changing datapack.
-
-## Terragen datapack Compatability
-- Terralith
-
-if installed with other world generation datapacks, there is a chance they may not generate in their custom biomes.
-
-## Uninstalling
-You can remove this data-pack from your world at any point to stop any new structures from being generated in new chunks!
-Any previous structures in chunks you have generated will remain as is and function normally as if the data-pack were installed!
-
+All these music tracks are composed in house so fear not copyright issues when sharing this datapack & its songs on youtube or other social platforms 😁
