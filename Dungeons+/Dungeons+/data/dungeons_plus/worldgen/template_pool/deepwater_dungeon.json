@@ -1,0 +1,33 @@
+{
+  "name": "dungeons_plus:deepwater_dungeon",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dungeons_plus:dungeons/deepwater_dungeon",
+        "projection": "rigid",
+        "processors": "dungeons_plus:dungeon/drowned_dungeon_rot"
+      }
+    },
+     {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dungeons_plus:dungeons/deepwater_dungeon_2",
+        "projection": "rigid",
+        "processors": "dungeons_plus:dungeon/drowned_dungeon_rot"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dungeons_plus:dungeons/deepwater_dungeon_3",
+        "projection": "rigid",
+        "processors": "dungeons_plus:dungeon/drowned_dungeon_rot"
+      }
+    }
+  ]
+}

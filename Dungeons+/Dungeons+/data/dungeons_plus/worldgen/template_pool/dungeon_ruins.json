@@ -1,0 +1,95 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 15,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeons_plus:other/dungeon_ruins_1",
+        "processors": "dungeons_plus:ruins/ruins_rot_4_lanterns"
+      }
+    },
+    {
+      "weight": 15,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeons_plus:other/dungeon_ruins_2",
+        "processors": "dungeons_plus:ruins/ruins_rot_7_lanterns"
+      }
+    },
+    {
+      "weight": 15,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeons_plus:other/dungeon_ruins_3",
+        "processors": "dungeons_plus:ruins/ruins_rot_4_lanterns"
+      }
+    },
+    {
+      "weight": 15,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeons_plus:other/dungeon_ruins_4",
+        "processors": "dungeons_plus:ruins/ruins_rot_4_lanterns"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeons_plus:other/dungeon_ruins_5",
+        "processors": "dungeons_plus:ruins/ruins_rot_1_lantern"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeons_plus:other/dungeon_ruins_6",
+        "processors": "dungeons_plus:ruins/ruins_rot_1_lantern"
+      }
+    },
+    {
+      "weight": 15,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeons_plus:other/dungeon_ruins_7",
+        "processors": "dungeons_plus:ruins/ruins_rot_1_lantern"
+      }
+    },
+    {
+      "weight": 15,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeons_plus:other/dungeon_ruins_8",
+        "processors": "dungeons_plus:ruins/ruins_rot_4_lanterns"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeons_plus:other/dungeon_ruins_9",
+        "processors": "dungeons_plus:ruins/ruins_rot_1_lantern"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeons_plus:other/dungeon_ruins_10",
+        "processors": "dungeons_plus:ruins/ruins_rot_1_lantern"
+      }
+    }
+  ]
+}

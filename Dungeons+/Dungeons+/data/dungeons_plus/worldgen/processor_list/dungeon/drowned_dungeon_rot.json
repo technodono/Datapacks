@@ -1,0 +1,113 @@
+{
+  "processors": [
+    {
+      "processor_type": "minecraft:capped",
+      "delegate": {
+        "processor_type": "minecraft:rule",
+        "rules": [
+          {
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "input_predicate": {
+              "predicate_type": "minecraft:block_match",
+              "block": "minecraft:chest"
+            },
+            "output_state": {
+              "Name": "minecraft:air"
+            }
+          }
+        ]
+      },
+      "limit": 4
+    },
+    {
+      "processor_type": "minecraft:block_rot",
+      "integrity": 0.7,
+      "rottable_blocks": [
+        "minecraft:granite",
+        "minecraft:granite_slab",
+        "minecraft:granite_stairs",
+        "minecraft:granite_wall",
+        "minecraft:polished_granite",
+        "minecraft:polished_granite_slab",
+        "minecraft:polished_granite_stairs",
+        "minecraft:prismarine_slab",
+        "minecraft:prismarine_stairs",
+        "minecraft:prismarine_wall",
+        "minecraft:prismarine_brick_slab",
+        "minecraft:prismarine_brick_stairs",
+        "minecraft:iron_bars"
+      ]
+    },
+    {
+      "processor_type": "minecraft:rule",
+      "rules": [
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:block_match",
+            "block": "minecraft:glass"
+          },
+          "output_state": {
+            "Name": "minecraft:cobblestone"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:cobblestone",
+            "probability": 0.3
+          },
+          "output_state": {
+            "Name": "minecraft:mossy_cobblestone"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:granite",
+            "probability": 0.3
+          },
+          "output_state": {
+            "Name": "minecraft:polished_granite"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:granite",
+            "probability": 0.15
+          },
+          "output_state": {
+            "Name": "minecraft:prismarine_bricks"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:granite",
+            "probability": 0.1
+          },
+          "output_state": {
+            "Name": "minecraft:prismarine"
+          }
+        }
+      ]
+    }
+  ]
+}

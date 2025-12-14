@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#dungeons_plus:is_cool_forest",
+    "#dungeons_plus:is_other_forest",
+    "#dungeons_plus:is_warm"
+  ]
+}

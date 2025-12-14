@@ -1,0 +1,19 @@
+{
+  "structures": [
+    {
+      "structure": "dungeons_plus:dungeon_ruins",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1299916203,
+    "frequency": 0.5,
+    "exclusion_zone": {
+      "other_set": "minecraft:trial_chambers",
+      "chunk_count": 6
+    },
+    "spacing": 18,
+    "separation": 10
+  }
+}

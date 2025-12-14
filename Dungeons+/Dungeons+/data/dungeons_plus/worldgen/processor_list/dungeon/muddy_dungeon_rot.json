@@ -1,0 +1,148 @@
+{
+  "processors": [
+    {
+      "processor_type": "minecraft:capped",
+      "delegate": {
+        "processor_type": "minecraft:rule",
+        "rules": [
+          {
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "input_predicate": {
+              "predicate_type": "minecraft:block_match",
+              "block": "minecraft:chest"
+            },
+            "output_state": {
+              "Name": "minecraft:air"
+            }
+          }
+        ]
+      },
+      "limit": 4
+    },
+    {
+      "processor_type": "minecraft:capped",
+      "delegate": {
+        "processor_type": "minecraft:rule",
+        "rules": [
+          {
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "input_predicate": {
+              "predicate_type": "minecraft:block_match",
+              "block": "minecraft:gravel"
+            },
+            "output_state": {
+              "Name": "minecraft:suspicious_gravel",
+              "Properties": {
+                "dusted": "0"
+              }
+            },
+            "block_entity_modifier": {
+              "type": "minecraft:append_loot",
+              "loot_table": "minecraft:chests/simple_dungeon"
+            }
+          }
+        ]
+      },
+      "limit": {
+        "type": "minecraft:uniform",
+        "min_inclusive": 3,
+        "max_inclusive": 5
+      }
+    },
+    {
+      "processor_type": "minecraft:block_rot",
+      "integrity": 0.7,
+      "rottable_blocks": [
+        "minecraft:cobblestone",
+        "minecraft:cobblestone_slab",
+        "minecraft:cobblestone_stairs",
+        "minecraft:cobblestone_wall",
+        "minecraft:chiseled_stone_bricks",
+        "minecraft:stone_bricks",
+        "minecraft:stone_brick_slab",
+        "minecraft:stone_brick_stairs",
+        "minecraft:stone_brick_wall",
+        "minecraft:iron_bars",
+        "minecraft:ladder",
+        "minecraft:mud_bricks"
+      ]
+    },
+    {
+      "processor_type": "minecraft:rule",
+      "rules": [
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:block_match",
+            "block": "minecraft:brown_stained_glass"
+          },
+          "output_state": {
+            "Name": "minecraft:mud_bricks"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:cobblestone",
+            "probability": 0.3
+          },
+          "output_state": {
+            "Name": "minecraft:stone_bricks"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:cobblestone",
+            "probability": 0.1
+          },
+          "output_state": {
+            "Name": "minecraft:chiseled_stone_bricks"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:cobblestone",
+            "probability": 0.2
+          },
+          "output_state": {
+            "Name": "minecraft:mossy_cobblestone"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:mud_bricks",
+            "probability": 0.5
+          },
+          "output_state": {
+            "Name": "minecraft:packed_mud"
+          }
+        }
+      ]
+    },
+    {
+      "processor_type": "minecraft:block_age",
+      "mossiness": 0.4
+    }
+  ]
+}

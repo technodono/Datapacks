@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "dungeons_plus:cold_dungeon",
+	"dungeons_plus:deepwater_dungeon",
+	"dungeons_plus:frozen_dungeon",
+	"dungeons_plus:lush_dungeon",
+	"dungeons_plus:mouldy_dungeon",
+	"dungeons_plus:muddy_dungeon",
+	"dungeons_plus:infested_dungeon",
+    "dungeons_plus:webbed_dungeon",
+	"dungeons_plus:dusty_tomb",
+	"dungeons_plus:scorched_tomb",
+	"dungeons_plus:dungeon_ruins"
+  ]
+}

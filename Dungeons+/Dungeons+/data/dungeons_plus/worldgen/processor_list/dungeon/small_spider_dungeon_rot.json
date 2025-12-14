@@ -1,0 +1,120 @@
+{
+  "processors": [
+    {
+      "processor_type": "minecraft:capped",
+      "delegate": {
+        "processor_type": "minecraft:rule",
+        "rules": [
+          {
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "input_predicate": {
+              "predicate_type": "minecraft:block_match",
+              "block": "minecraft:chest"
+            },
+            "output_state": {
+              "Name": "minecraft:cobblestone"
+            }
+          }
+        ]
+      },
+      "limit": 3
+    },
+    {
+      "processor_type": "minecraft:rule",
+      "rules": [
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:air",
+            "probability": 0.05
+          },
+          "output_state": {
+            "Name": "minecraft:cobweb"
+          }
+        }
+      ]
+    },
+    {
+      "processor_type": "minecraft:block_rot",
+      "integrity": 0.7,
+      "rottable_blocks": [
+        "minecraft:cobblestone",
+        "minecraft:cobblestone_slab",
+        "minecraft:cobblestone_stairs",
+        "minecraft:cobblestone_wall",
+        "minecraft:chiseled_stone_bricks",
+        "minecraft:stone_bricks",
+        "minecraft:stone_brick_slab",
+        "minecraft:stone_brick_stairs",
+        "minecraft:stone_brick_wall",
+        "minecraft:iron_bars",
+        "minecraft:ladder"
+      ]
+    },
+    {
+      "processor_type": "minecraft:rule",
+      "rules": [
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:block_match",
+            "block": "minecraft:glass"
+          },
+          "output_state": {
+            "Name": "minecraft:cobblestone"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:cobblestone",
+            "probability": 0.3
+          },
+          "output_state": {
+            "Name": "minecraft:stone_bricks"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:cobblestone",
+            "probability": 0.1
+          },
+          "output_state": {
+            "Name": "minecraft:chiseled_stone_bricks"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:cobblestone",
+            "probability": 0.2
+          },
+          "output_state": {
+            "Name": "minecraft:mossy_cobblestone"
+          }
+        }
+      ]
+    },
+    {
+      "processor_type": "minecraft:block_age",
+      "mossiness": 0.4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_beach",
+    "minecraft:stony_shore",
+    "minecraft:dripstone_caves",
+    {
+      "id": "terralith:basalt_cliffs",
+      "required": false
+    },
+    {
+      "id": "terralith:granite_cliffs",
+      "required": false
+    },
+    {
+      "id": "terralith:gravel_beach",
+      "required": false
+    },
+    {
+      "id": "terralith:white_cliffs",
+      "required": false
+    }
+  ]
+}

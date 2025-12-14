@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_badlands",
+    {
+      "id": "terralith:red_oasis",
+      "required": false
+    },
+    {
+      "id": "terralith:bryce_canyon",
+      "required": false
+    },
+    {
+      "id": "terralith:snowy_badlands",
+      "required": false
+    },
+    {
+      "id": "terralith:warped_mesa",
+      "required": false
+    },
+    {
+      "id": "terralith:white_mesa",
+      "required": false
+    }
+  ]
+}

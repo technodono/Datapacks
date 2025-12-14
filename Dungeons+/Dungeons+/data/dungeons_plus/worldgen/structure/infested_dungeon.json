@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": "#dungeons_plus:has_structure/infested_dungeon",
+  "terrain_adaptation": "beard_thin",
+  "step": "underground_structures",
+  "spawn_overrides": {},
+  "start_pool": "dungeons_plus:infested_dungeon",
+  "size": 1,
+  "start_height": {
+    "type": "minecraft:uniform",
+    "min_inclusive": {
+      "absolute": -55
+    },
+    "max_inclusive": {
+      "absolute": 32
+    }
+  },
+  
+  "max_distance_from_center": 80,
+  "use_expansion_hack": false
+}
+
