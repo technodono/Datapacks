@@ -1,0 +1,82 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "minecraft:item/music_disc_otherside"
+    },
+    "cases": [
+      {
+        "when": "harmonic_horizons:item/music_disc_exploratory_dive",
+        "model": {
+          "type": "model",
+          "model": "harmonic_horizons:item/music_disc_exploratory_dive"
+        }
+      },
+      {
+        "when": "harmonic_horizons:item/music_disc_midnight_chimes",
+        "model": {
+          "type": "model",
+          "model": "harmonic_horizons:item/music_disc_midnight_chimes"
+        }
+      },
+      {
+        "when": "harmonic_horizons:item/music_disc_bone_co",
+        "model": {
+          "type": "model",
+          "model": "harmonic_horizons:item/music_disc_bone_co"
+        }
+      },
+      {
+        "when": "harmonic_horizons:item/music_disc_crystal_chasm",
+        "model": {
+          "type": "model",
+          "model": "harmonic_horizons:item/music_disc_crystal_chasm"
+        }
+      },
+      {
+        "when": "harmonic_horizons:item/music_disc_reflection",
+        "model": {
+          "type": "model",
+          "model": "harmonic_horizons:item/music_disc_reflection"
+        }
+      },
+      {
+        "when": "harmonic_horizons:item/music_disc_the_foyer",
+        "model": {
+          "type": "model",
+          "model": "harmonic_horizons:item/music_disc_the_foyer"
+        }
+      },
+      {
+        "when": "harmonic_horizons:item/music_disc_flow",
+        "model": {
+          "type": "model",
+          "model": "harmonic_horizons:item/music_disc_flow"
+        }
+      },
+      {
+        "when": "harmonic_horizons:item/music_disc_castanuelas",
+        "model": {
+          "type": "model",
+          "model": "harmonic_horizons:item/music_disc_castanuelas"
+        }
+      },
+      {
+        "when": "harmonic_horizons:item/music_disc_call_of_the_wild",
+        "model": {
+          "type": "model",
+          "model": "harmonic_horizons:item/music_disc_call_of_the_wild"
+        }
+      },
+      {
+        "when": "harmonic_horizons:item/music_disc_forgotten",
+        "model": {
+          "type": "model",
+          "model": "harmonic_horizons:item/music_disc_forgotten"
+        }
+      }
+    ]
+  }
+}

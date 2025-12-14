@@ -1,0 +1,26 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "harmonic_horizons:font/hyperlink.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uE000"]
+    },
+    {
+      "type": "bitmap",
+      "file": "harmonic_horizons:font/arrow.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uE001"]
+    },
+    {
+      "type": "bitmap",
+      "file": "harmonic_horizons:font/select.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uE002"]
+    }
+  ]
+}
+

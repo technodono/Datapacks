@@ -1,5 +1,5 @@
 {
-  "name": "dungeons_plus:spawners/mesa_dungeon_spawners",
+  "name": "dungeons_plus:mesa_dungeon_spawners",
   "fallback": "minecraft:empty",
   "elements": [
     {

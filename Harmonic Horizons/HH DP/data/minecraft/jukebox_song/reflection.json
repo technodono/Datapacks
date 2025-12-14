@@ -1,0 +1,10 @@
+{
+    "comparator_output": 5, 
+    "description": {
+        "text": "Technodono - Reflection"
+    },
+    "length_in_seconds": 140.0,
+    "sound_event": {
+        "sound_id": "harmonic_horizons:music_disc.reflection"
+    }
+}

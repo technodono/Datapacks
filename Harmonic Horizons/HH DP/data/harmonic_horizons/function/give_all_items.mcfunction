@@ -1,0 +1,10 @@
+loot give @s loot harmonic_horizons:discs/music_disc_exploratory_dive
+loot give @s loot harmonic_horizons:discs/music_disc_midnight_chimes
+loot give @s loot harmonic_horizons:discs/music_disc_bone_co
+loot give @s loot harmonic_horizons:discs/music_disc_crystal_chasm
+loot give @s loot harmonic_horizons:discs/music_disc_reflection
+loot give @s loot harmonic_horizons:discs/music_disc_the_foyer
+loot give @s loot harmonic_horizons:discs/music_disc_flow
+loot give @s loot harmonic_horizons:discs/music_disc_castanuelas
+loot give @s loot harmonic_horizons:discs/music_disc_call_of_the_wild
+loot give @s loot harmonic_horizons:discs/music_disc_forgotten

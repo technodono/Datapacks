@@ -1,0 +1,82 @@
+{
+  "music_disc.crystal_chasm": {
+    "sounds": [
+      {
+        "name": "harmonic_horizons:records/crystal_chasm",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.forgotten": {
+    "sounds": [
+      {
+        "name": "harmonic_horizons:records/forgotten",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.castanuelas": {
+    "sounds": [
+      {
+        "name": "harmonic_horizons:records/castanuelas",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.reflection": {
+    "sounds": [
+      {
+        "name": "harmonic_horizons:records/reflection",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.flow": {
+    "sounds": [
+      {
+        "name": "harmonic_horizons:records/flow",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.bone_co": {
+    "sounds": [
+      {
+        "name": "harmonic_horizons:records/bone_co",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.call_of_the_wild": {
+    "sounds": [
+      {
+        "name": "harmonic_horizons:records/call_of_the_wild",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.exploratory_dive": {
+    "sounds": [
+      {
+        "name": "harmonic_horizons:records/exploratory_dive",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.midnight_chimes": {
+    "sounds": [
+      {
+        "name": "harmonic_horizons:records/midnight_chimes",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.the_foyer": {
+    "sounds": [
+      {
+        "name": "harmonic_horizons:records/the_foyer",
+        "stream": true
+      }
+    ]
+  }
+}

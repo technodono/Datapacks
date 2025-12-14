@@ -1,0 +1,10 @@
+{
+    "comparator_output": 9, 
+    "description": {
+        "text": "Technodono - Call of the wild"
+    },
+    "length_in_seconds": 132.0,
+    "sound_event": {
+        "sound_id": "harmonic_horizons:music_disc.call_of_the_wild"
+    }
+}

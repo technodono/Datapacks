@@ -1,0 +1,10 @@
+{
+    "comparator_output": 4, 
+    "description": {
+        "text": "Technodono - Crystal Chasm"
+    },
+    "length_in_seconds": 204.0,
+    "sound_event": {
+        "sound_id": "harmonic_horizons:music_disc.crystal_chasm"
+    }
+}

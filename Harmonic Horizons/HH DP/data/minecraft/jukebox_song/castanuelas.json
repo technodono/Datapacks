@@ -1,0 +1,10 @@
+{
+    "comparator_output": 8, 
+    "description": {
+        "text": "Technodono - Castañuelas"
+    },
+    "length_in_seconds": 160.0,
+    "sound_event": {
+        "sound_id": "harmonic_horizons:music_disc.castanuelas"
+    }
+}

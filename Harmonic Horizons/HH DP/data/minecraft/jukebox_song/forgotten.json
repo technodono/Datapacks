@@ -1,0 +1,10 @@
+{
+    "comparator_output": 10, 
+    "description": {
+        "text": "Technodono - Forgotten"
+    },
+    "length_in_seconds": 207.0,
+    "sound_event": {
+        "sound_id": "harmonic_horizons:music_disc.forgotten"
+    }
+}

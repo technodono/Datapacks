@@ -1,0 +1,19 @@
+{
+  "pack": {
+    "description": {
+      "atlas": "minecraft:items",
+      "sprite": "minecraft:item/music_disc_otherside",
+      "extra": [
+        {
+          "atlas": "minecraft:items",
+          "sprite": "minecraft:item/command_block_minecart"
+        },
+        " Harmonic Horizons \ncreated by Fingermaps & Technodono"
+      ],
+      "color": "#ffcef3"
+    },
+    "pack_format": 88,
+    "min_format": 82,
+    "max_format": 98
+  }
+}

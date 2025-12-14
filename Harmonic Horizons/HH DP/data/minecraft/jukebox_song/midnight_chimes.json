@@ -1,0 +1,10 @@
+{
+    "comparator_output": 2, 
+    "description": {
+        "text": "Technodono - Midnight Chimes"
+    },
+    "length_in_seconds": 156.0,
+    "sound_event": {
+        "sound_id": "harmonic_horizons:music_disc.midnight_chimes"
+    }
+}
