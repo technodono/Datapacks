@@ -5,6 +5,7 @@ This data-pack adds over 30 brand new immersive underground dungeons and structu
 ## Installing:
 Once the data-pack is installed you can verify it's working by running /data-pack list and checking if it's in the list
 
+
 ## Standard Dungeon Types
 > **Cold Dungeon**: The skeleton's bone cold abode  
 > 
@@ -16,6 +17,8 @@ Once the data-pack is installed you can verify it's working by running /data-pac
 
 ## Unique Dungeon Types 
 > **Infested Dungeon**: This mountain dungeon has been overtaken by an infestation! make sure you watch your step!
+>
+> **Insidious Dungeon**: Well constructed dungeons using the locally abundant cinnabar and sulfur. Cave spiders lurk from within the dungeon turning whatever air space is left into a gorgeous network of webs.
 > 
 > **Lush Dungeon**: The lush jungles & caves provide a nice home for these cave spiders. Be careful however as the dungeon is very small & cramped.
 > 
@@ -35,12 +38,14 @@ Once the data-pack is installed you can verify it's working by running /data-pac
 ## Dungeons+ Loot
 This data-pack uses vanilla loot tables! This makes it compatible with any other loot-table changing datapack.
 
-## Terragen datapack Compatability
-- Terralith
+## Pack Integrations
+- Terralith [Dungeons will spawn in terralith biomes]
 
 if installed with other world generation datapacks, there is a chance they may not generate in their custom biomes.
 
 ## Additional download sites
+[Smithed](https://smithed.net/packs/dungeouns_plus)
+
 [Planet Minecraft](https://www.planetminecraft.com/data-pack/vanilla-dungeouns)
 
 ## Uninstalling
