@@ -20,7 +20,7 @@ This data-pack adds over 30 brand new immersive underground dungeons and structu
 > _[Found in: Plains, Hills, Savannahs, Tiagas, Forests]_
 
 ## Unique Dungeon Types 
-> **Ancient City Remnants**: Warden worshippers having now long left the city leave it in disrepair. Find remenants across the deep dark and search it for unique ancient city themed loot! 
+> **Ancient City Remnants**: Warden worshippers having now long left the city leave it in disrepair. Find remnants across the deep dark and search it for unique ancient city themed loot! 
 > 
 > **Infested Dungeon**: This mountain dungeon has been overtaken by an infestation! make sure you watch your step!
 >
