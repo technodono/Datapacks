@@ -1,10 +1,14 @@
-# DeCubed Dungeons
+![DeCubed Dungeons](https://github.com/technodono/Datapacks/blob/main/Dungeons+/Images/decubed_dungeons_banner.png?raw=true)
 
-This data-pack adds over 30 brand new immersive underground dungeons and structures that keep the style of vanilla dungeons but ultimately replace them! Each dungeon type spawns within certain biomes and has a unique spawner which allows for strategic structure exploration.
+This data-pack adds over 30 brand new immersive underground dungeons and structures that keep the style of vanilla dungeons but ultimately replace them! Each dungeon type spawns within certain biomes and has a unique spawner which allows for strategic structure exploration. 
+###  
 
-## Installing:
-Once the data-pack is installed you can verify it's working by running /data-pack list and checking if it's in the list
+## Commands:
+`/locate structure #decubed_dungeons:dungeon` - finds the nearest dungeon of **any type**
 
+`/locate structure decubed_dungeons:<type>` - finds the nearest dungeon of a **specificed type**
+
+`/locate structure decubed_dungeons:dungeon_ruins` - finds the nearest **dungeon ruins**
 
 ## Standard Dungeon Types
 > **Cold Dungeon**: The skeleton's bone cold abode  
@@ -13,9 +17,11 @@ Once the data-pack is installed you can verify it's working by running /data-pac
 > 
 > **Webbed Dungeon**: This dungeon could almost be mistaken for a small fortress... a spider's fortress.
 > 
-> _[Found in: Plains, Hills, Savannahs, Tiagas]_
+> _[Found in: Plains, Hills, Savannahs, Tiagas, Forests]_
 
 ## Unique Dungeon Types 
+> **Ancient City Remnants**: Warden worshippers having now long left the city leave it in disrepair. Find remenants across the deep dark and search it for unique ancient city themed loot! 
+> 
 > **Infested Dungeon**: This mountain dungeon has been overtaken by an infestation! make sure you watch your step!
 >
 > **Insidious Dungeon**: Well constructed dungeons using the locally abundant cinnabar and sulfur. Cave spiders lurk from within the dungeon turning whatever air space is left into a gorgeous network of webs.
@@ -36,10 +42,13 @@ Once the data-pack is installed you can verify it's working by running /data-pac
 > **Dungeon Ruins**: We don't know how they got here, only that someone has been here already!
 
 ## Dungeons+ Loot
-This data-pack uses vanilla loot tables! This makes it compatible with any other loot-table changing datapack.
+- Standard dungeons make use of the vanilla loot-tables and will be compatible with most packs
+- Ancient city remnants feature an exclusive loot table that is a nerfed version of the base ancient city loot tables
 
 ## Pack Integrations
 - Terralith [Dungeons will spawn in terralith biomes]
+- Tectonic
+- Geophillic
 
 if installed with other world generation datapacks, there is a chance they may not generate in their custom biomes.
 
