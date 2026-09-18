@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+	"decubed_dungeons:ancient_city_remnant",
+    "decubed_dungeons:cold_dungeon",
+	"decubed_dungeons:deepwater_dungeon",
+	"decubed_dungeons:dusty_tomb",
+	"decubed_dungeons:frozen_dungeon",
+	"decubed_dungeons:infested_dungeon",
+	"decubed_dungeons:insidious_dungeon",
+	"decubed_dungeons:lush_dungeon",
+	"decubed_dungeons:mouldy_dungeon",
+	"decubed_dungeons:muddy_dungeon",
+	"decubed_dungeons:scorched_tomb",
+	"decubed_dungeons:webbed_dungeon",
+	"decubed_dungeons:dungeon_ruins"
+  ]
+}

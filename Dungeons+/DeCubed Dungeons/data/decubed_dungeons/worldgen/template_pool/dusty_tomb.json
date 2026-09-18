@@ -1,0 +1,33 @@
+{
+  "name": "decubed_dungeons:dusty_tomb",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "decubed_dungeons:dungeons/dusty_tomb/small_1",
+        "projection": "rigid",
+        "processors": "decubed_dungeons:dungeons/4_chest_sandstone_rot"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "decubed_dungeons:dungeons/dusty_tomb/small_2",
+        "projection": "rigid",
+        "processors": "decubed_dungeons:dungeons/4_chest_sandstone_rot"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "decubed_dungeons:dungeons/dusty_tomb/small_3",
+        "projection": "rigid",
+        "processors": "decubed_dungeons:dungeons/4_chest_sandstone_rot"
+      }
+    }
+  ]
+}

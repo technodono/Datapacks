@@ -1,0 +1,33 @@
+{
+  "name": "decubed_dungeons:ancient_city_remnant",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "decubed_dungeons:dungeons/ancient_city_remnant/meeting_hall",
+        "projection": "rigid",
+        "processors": "decubed_dungeons:dungeons/deepslate_rot"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "decubed_dungeons:dungeons/ancient_city_remnant/watchpoint",
+        "projection": "rigid",
+        "processors": "decubed_dungeons:dungeons/deepslate_rot"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "decubed_dungeons:dungeons/ancient_city_remnant/shrine",
+        "projection": "rigid",
+        "processors": "decubed_dungeons:dungeons/deepslate_rot"
+      }
+    }
+  ]
+}

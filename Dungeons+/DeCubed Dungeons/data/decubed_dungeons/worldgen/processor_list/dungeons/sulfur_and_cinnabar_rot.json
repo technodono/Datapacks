@@ -1,0 +1,286 @@
+{
+  "processors": [
+    {
+      "processor_type": "minecraft:capped",
+      "delegate": {
+        "processor_type": "minecraft:rule",
+        "rules": [
+          {
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "input_predicate": {
+              "predicate_type": "minecraft:block_match",
+              "block": "minecraft:chest"
+            },
+            "output_state": {
+              "id": "minecraft:air"
+            }
+          }
+        ]
+      },
+      "limit": 6
+    },
+    {
+      "processor_type": "minecraft:rule",
+      "rules": [
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:air",
+            "probability": 0.05
+          },
+          "output_state": {
+            "id": "minecraft:cobweb"
+          }
+        }
+      ]
+    },
+    {
+      "processor_type": "minecraft:block_rot",
+      "integrity": 0.7,
+      "rottable_blocks": [
+        "minecraft:granite_wall",
+        "minecraft:polished_granite",
+        "minecraft:cinnabar_bricks",
+        "minecraft:cinnabar_brick_slab",
+        "minecraft:cinnabar_brick_stairs",
+        "minecraft:cinnabar_brick_wall",
+        "minecraft:polished_cinnabar",
+        "minecraft:polished_cinnabar_slab",
+        "minecraft:polished_cinnabar_stairs",
+        "minecraft:polished_cinnabar_wall",
+        "minecraft:chiseled_cinnabar",
+        "minecraft:sulfur",
+        "minecraft:sulfur_slab",
+        "minecraft:sulfur_stairs",
+        "minecraft:sulfur_wall",
+        "minecraft:sulfur_bricks",
+        "minecraft:sulfur_brick_slab",
+        "minecraft:sulfur_brick_stairs",
+        "minecraft:sulfur_brick_wall"
+      ]
+    },
+    {
+      "processor_type": "minecraft:rule",
+      "rules": [
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:block_match",
+            "block": "minecraft:glass"
+          },
+          "output_state": {
+            "id": "minecraft:polished_cinnabar"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:block_match",
+            "block": "minecraft:light_gray_stained_glass"
+          },
+          "output_state": {
+            "id": "minecraft:cinnabar_brick_slab",
+            "properties": {
+              "type": "top"
+            }
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:cinnabar_brick_stairs",
+            "probability": 0.1
+          },
+          "output_state": {
+            "id": "minecraft:cinnabar_bricks"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:cinnabar_brick_stairs",
+            "probability": 0.1
+          },
+          "output_state": {
+            "id": "minecraft:cinnabar_stairs"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:cinnabar_brick_stairs",
+            "probability": 0.1
+          },
+          "output_state": {
+            "id": "minecraft:polished_cinnabar_stairs"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:cinnabar_brick_slab",
+            "probability": 0.1
+          },
+          "output_state": {
+            "id": "minecraft:cinnabar_slab"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:polished_cinnabar_slab",
+            "probability": 0.1
+          },
+          "output_state": {
+            "id": "minecraft:cinnabar_slab"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:cinnabar_brick_slab",
+            "probability": 0.1
+          },
+          "output_state": {
+            "id": "minecraft:polished_cinnabar_slab"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:polished_cinnabar",
+            "probability": 0.1
+          },
+          "output_state": {
+            "id": "minecraft:cinnabar"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:polished_cinnabar",
+            "probability": 0.1
+          },
+          "output_state": {
+            "id": "minecraft:cinnabar_slab"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:polished_cinnabar",
+            "probability": 0.1
+          },
+          "output_state": {
+            "id": "minecraft:polished_cinnabar_slab"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:sulfur_bricks",
+            "probability": 0.1
+          },
+          "output_state": {
+            "id": "minecraft:polished_sulfur"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:sulfur_bricks",
+            "probability": 0.1
+          },
+          "output_state": {
+            "id": "minecraft:polished_sulfur_slab"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:sulfur_bricks",
+            "probability": 0.1
+          },
+          "output_state": {
+            "id": "minecraft:sulfur_slab"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:sulfur_bricks",
+            "probability": 0.1
+          },
+          "output_state": {
+            "id": "minecraft:sulfur"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:sulfur_wall",
+            "probability": 0.2
+          },
+          "output_state": {
+            "id": "minecraft:polished_sulfur_wall"
+          }
+        }
+      ]
+    },
+        {
+      "processor_type": "minecraft:protected_blocks",
+      "value": "#minecraft:features_cannot_replace"
+    }
+  ]
+}

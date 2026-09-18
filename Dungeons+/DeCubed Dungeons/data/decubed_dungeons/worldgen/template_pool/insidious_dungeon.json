@@ -1,0 +1,33 @@
+{
+  "name": "decubed_dungeons:insidious_dungeon",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "decubed_dungeons:dungeons/insidious_dungeon/small_1",
+        "projection": "rigid",
+        "processors": "decubed_dungeons:dungeons/sulfur_and_cinnabar_rot"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "decubed_dungeons:dungeons/insidious_dungeon/small_2",
+        "projection": "rigid",
+        "processors": "decubed_dungeons:dungeons/sulfur_and_cinnabar_rot"
+      }
+    },
+     {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "decubed_dungeons:dungeons/insidious_dungeon/small_3",
+        "projection": "rigid",
+        "processors": "decubed_dungeons:dungeons/sulfur_and_cinnabar_rot"
+      }
+    }
+  ]
+}

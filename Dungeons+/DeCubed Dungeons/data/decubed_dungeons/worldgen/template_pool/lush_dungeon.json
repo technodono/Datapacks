@@ -1,0 +1,33 @@
+{
+  "name": "decubed_dungeons:lush_dungeon",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "decubed_dungeons:dungeons/lush_dungeon/small_1",
+        "projection": "rigid",
+        "processors": "decubed_dungeons:dungeons/web_and_cobblestone_rot_small"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "decubed_dungeons:dungeons/lush_dungeon/small_2",
+        "projection": "rigid",
+        "processors": "decubed_dungeons:dungeons/web_and_cobblestone_rot_small"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "decubed_dungeons:dungeons/lush_dungeon/small_3",
+        "projection": "rigid",
+        "processors": "decubed_dungeons:dungeons/web_and_cobblestone_rot_small"
+      }
+    }
+  ]
+}
