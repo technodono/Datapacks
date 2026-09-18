@@ -1,4 +1,4 @@
-# Dungeons+
+# DeCubed Dungeons
 
 This data-pack adds over 30 brand new immersive underground dungeons and structures that keep the style of vanilla dungeons but ultimately replace them! Each dungeon type spawns within certain biomes and has a unique spawner which allows for strategic structure exploration.
 
