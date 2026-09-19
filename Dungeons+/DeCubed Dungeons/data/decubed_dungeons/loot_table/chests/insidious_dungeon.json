@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "minecraft:chests/simple_dungeon"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_bounce",
+          "modifier": {
+            "type": "minecraft:discard",
+            "condition": {
+              "type": "minecraft:random_chance",
+              "chance": 0.7
+            }
+          },
+          "condition": {
+            "type": "minecraft:location_check",
+            "predicate": {
+              "biomes": "minecraft:sulfur_caves"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
