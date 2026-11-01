@@ -6,4 +6,4 @@ Have you ever wondered why Minecraft's music discs are only available in specifi
 All these music tracks are composed in house so fear not copyright issues when sharing this data-pack & its songs on YouTube or other social platforms 😁
 
 # 
-[![Click to listen to the full soundtrack](https://github.com/technodono/Datapacks/blob/main/Harmonic%20Horizons/Images/soundtrack_card.jpg?raw=true)](https://youtu.be/T2oSTzVrfu0)
+[![Click to listen to the full soundtrack](https://github.com/technodono/Datapacks/blob/main/Harmonic%20Horizons/Images/soundtrack_card.jpg?raw=true)](https://www.youtube.com/playlist?list=PLfNhdQ6eEdRI)
